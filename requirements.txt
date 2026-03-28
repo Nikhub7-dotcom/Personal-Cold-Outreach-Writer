@@ -1,0 +1,19 @@
+# LangChain core
+langchain
+langchain-core
+langchain-community
+
+# LangGraph (the state graph engine)
+langgraph
+
+# Groq LLM
+langchain-groq
+
+# Web scraping
+firecrawl-py
+
+# Gradio UI
+gradio
+
+# Environment variables
+python-dotenv
